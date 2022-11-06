@@ -91,5 +91,11 @@ namespace ATProject.Randomly.Controllers
         {
             return randomList.GetHEXColor();
         }
+
+        [HttpGet("DayOfWeek")]
+        public string GetDayOfWeek()
+        {
+            return randomList.GetDayOfWeek();
+        }
     }
 }

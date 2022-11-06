@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anonymous\\source\\repos\\ATProject.Randomly\\ATProject.Randomly.csproj": {}
+    "C:\\Users\\anonymous\\Desktop\\Randomly\\ATProject.Randomly\\ATProject.Randomly.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anonymous\\source\\repos\\ATProject.Randomly\\ATProject.Randomly.csproj": {
+    "C:\\Users\\anonymous\\Desktop\\Randomly\\ATProject.Randomly\\ATProject.Randomly.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anonymous\\source\\repos\\ATProject.Randomly\\ATProject.Randomly.csproj",
+        "projectUniqueName": "C:\\Users\\anonymous\\Desktop\\Randomly\\ATProject.Randomly\\ATProject.Randomly.csproj",
         "projectName": "ATProject.Randomly",
-        "projectPath": "C:\\Users\\anonymous\\source\\repos\\ATProject.Randomly\\ATProject.Randomly.csproj",
+        "projectPath": "C:\\Users\\anonymous\\Desktop\\Randomly\\ATProject.Randomly\\ATProject.Randomly.csproj",
         "packagesPath": "C:\\Users\\anonymous\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anonymous\\source\\repos\\ATProject.Randomly\\obj\\",
+        "outputPath": "C:\\Users\\anonymous\\Desktop\\Randomly\\ATProject.Randomly\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anonymous\\AppData\\Roaming\\NuGet\\NuGet.Config",

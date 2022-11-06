@@ -96,6 +96,11 @@ namespace ATProject.Randomly
             return String.Format("#{0:X6}", random.Next(0x1000000));
         }
 
+        public string GetDayOfWeek()
+        {
+            return GetDate().DayOfWeek.ToString();
+        }
+
         public T GetRandom<T>(T[] array)
         {
             return array[random.Next(array.Length)];
